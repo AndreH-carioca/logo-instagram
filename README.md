@@ -1,11 +1,6 @@
 <h1 align="center"> Logo do Instagram </h1>
 
-<p align="center">
-
-Desenvolvi a logomarca atual da rede social TikTok
-
-<br/>
-</p>
+<p align="center"> Desenvolvi a logomarca atual da rede social TikTok </p>
 
 ## 🚀 Tecnologias
 
