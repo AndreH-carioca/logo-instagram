@@ -1,6 +1,6 @@
-<h1 align="center"> Logo do Instagram </h1>
+<h1 align="center"> Logomarca Online do Instagram</h1>
 
-<p align="center"> Desenvolvi a logomarca atual da rede social Instagram </p>
+<br>
 
 ## 🚀 Tecnologias
 
@@ -13,4 +13,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 - [Visite o projeto online](https://andreh-carioca.github.io/logo-instagram/)
+
+## Licença
+
+Esse projeto está sob a licença MIT.
+
+Projeto desenvolvido por André Higino Carioca 🧑‍💻 💚
+
+
+
+
 
